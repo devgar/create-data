@@ -1,0 +1,16 @@
+{
+  "name": "create-data",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Edgar Albalate <dev.gardo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mkdir-p": "0.0.7"
+  }
+}
